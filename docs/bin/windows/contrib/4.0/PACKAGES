@@ -1,3 +1,7 @@
+Package: asteRiskData
+Version: 0.1.0
+License: GPL-3
+
 Package: drat
 Version: 0.1.8
 Depends: R (>= 3.2.0)
