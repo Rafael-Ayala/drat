@@ -1,0 +1,7 @@
+Package: asteRiskData
+Version: 0.1.0
+Depends: R (>= 4.0)
+Imports: utils
+License: GPL-3
+MD5sum: b37e864f85638bbbad69a09b916d0875
+NeedsCompilation: no
