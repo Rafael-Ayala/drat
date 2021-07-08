@@ -2,7 +2,7 @@ Package: asteRiskData
 Version: 0.1.0
 Depends: R (>= 4.0)
 License: GPL-3
-MD5sum: 5f3470ac137dbc096199a9e1ee263e0d
+MD5sum: 12dcf5567e3095d755be5b04ee68464c
 NeedsCompilation: no
 
 Package: drat
