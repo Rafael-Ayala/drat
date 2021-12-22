@@ -3,3 +3,10 @@ Version: 0.1.0
 Depends: R (>= 4.0)
 License: GPL-3
 MD5sum: e09cf303a162f3a107bdd99f4394e55e
+
+Package: asteRiskData
+Version: 0.1.3
+Depends: R (>= 4.0)
+Imports: utils, curl
+License: GPL-3
+MD5sum: bf9ea3e048ec381d3dd1a2fd67e8e446
