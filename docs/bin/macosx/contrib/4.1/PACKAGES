@@ -3,4 +3,4 @@ Version: 0.2
 Depends: R (>= 4.0)
 Imports: utils, curl
 License: GPL-3
-MD5sum: 327d9c011e1f99d71e89aeba91ffd357
+MD5sum: 878b2af22e9d29efe64c6755b3a76837
