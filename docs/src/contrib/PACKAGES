@@ -3,7 +3,7 @@ Version: 0.3
 Depends: R (>= 4.0)
 Imports: utils, curl
 License: GPL-3
-MD5sum: a656e00509c339969aee4905e7d28012
+MD5sum: bc6b47c0da0c7498ace0b5be34f035eb
 NeedsCompilation: no
 
 Package: drat
