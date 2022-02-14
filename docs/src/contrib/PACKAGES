@@ -1,9 +1,9 @@
 Package: asteRiskData
-Version: 0.4
+Version: 0.5
 Depends: R (>= 4.0)
 Imports: utils, curl
 License: GPL-3
-MD5sum: fb06b8139b60482a499c4bd2cc4a44f2
+MD5sum: e522424a0dfacdcdcecbec10455cfef4
 NeedsCompilation: no
 
 Package: drat
